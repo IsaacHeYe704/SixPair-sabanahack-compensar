@@ -1,5 +1,8 @@
 .chat-container {
     max-width: 400px;
+    max-height: 150px;
+    overflow: scroll;
+    margin-bottom: 100px;
     margin: 0 auto;
 }
 
