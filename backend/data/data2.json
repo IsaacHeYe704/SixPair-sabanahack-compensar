@@ -1,0 +1,1899 @@
+{
+    "items": [
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg&height=475&width=475",
+            "salePrice": 5700.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg",
+                "/ccstore/v1/images/?source=/file/v6679268254693840116/products/id1700.lanchas-acuaticas-en-lago-compensar.jpg"
+            ],
+            "displayName": "Bicicleta acuática",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v6679268254693840116/products/id1700.lanchas-acuaticas-en-lago-compensar.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Cajicá": 47
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/bicicleta-acuatica/HER-B-RED-REC-REC-012",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg&height=300&width=300",
+            "x_area": "Bicicletas Acuáticas",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v6679268254693840116/products/id1700.lanchas-acuaticas-en-lago-compensar.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v4255685987842880784/products/id1700.pareja-monta-bicicleta-acuatica.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-012",
+            "listPrice": 5700.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg&height=475&width=475",
+            "salePrice": 4700.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg"
+            ],
+            "displayName": "Bolirana",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Calle 220": 45,
+                        "Cajicá": 47
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/bolirana/HER-B-RED-REC-REC-060",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v931025949737381961/products/id1407.cuatro-adultos-mayores-sonrien-al-aire-libre.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-060",
+            "listPrice": 4700.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg&height=475&width=475",
+            "salePrice": 122400.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg",
+                "/ccstore/v1/images/?source=/file/v2631551375158592569/products/id1700.joven-sosteniendose-de-una-baranda.jpg"
+            ],
+            "displayName": "Caminata y pesca deportiva en Guasca ",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v2631551375158592569/products/id1700.joven-sosteniendose-de-una-baranda.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Avenida 68": 49
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/caminata-y-pesca-deportiva-en-guasca-/HER-B-RED-REC-REC-077",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v2631551375158592569/products/id1700.joven-sosteniendose-de-una-baranda.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v3165934644622145204/products/id1700.mujer-con-mochila-naranja.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-077",
+            "listPrice": 122400.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg&height=475&width=475",
+            "salePrice": 141500.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg",
+                "/ccstore/v1/images/?source=/file/v6162945656102511092/products/pareja-realiza-caminata-tomados-de-la-mano.jpg"
+            ],
+            "displayName": "Caminata y torrentismo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v6162945656102511092/products/pareja-realiza-caminata-tomados-de-la-mano.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Avenida 68": 49
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/caminata-y-torrentismo/HER-B-RED-REC-REC-083",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v6162945656102511092/products/pareja-realiza-caminata-tomados-de-la-mano.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v4096573227657969164/products/hombre-realizando-torrentismo-en-una-casacada.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-083",
+            "listPrice": 141500.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg&height=475&width=475",
+            "salePrice": 141500.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg",
+                "/ccstore/v1/images/?source=/file/v2730388216914539353/products/un-hombre-en-un-jardin.jpg"
+            ],
+            "displayName": "Día de campo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v2730388216914539353/products/un-hombre-en-un-jardin.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Avenida 68": 49
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/dia-de-campo/HER-B-RED-REC-REC-085",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v2730388216914539353/products/un-hombre-en-un-jardin.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v8851233401244556672/products/una-mujer-cortando-plantas.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-085",
+            "listPrice": 141500.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg&height=475&width=475",
+            "salePrice": 63700.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg",
+                "/ccstore/v1/images/?source=/file/v2072429195270721517/products/id1413.bateria-en-sala-de-grabacion.jpg"
+            ],
+            "displayName": "Estudio de grabación",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v2072429195270721517/products/id1413.bateria-en-sala-de-grabacion.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Suba Sede Integral": 72
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/estudio-de-grabacion/PAQHER-B-RED-REC-REC-019-MAT543",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg&height=300&width=300",
+            "x_area": "Sala de Ensayos",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v2072429195270721517/products/id1413.bateria-en-sala-de-grabacion.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v7350891069063413220/products/id1413.consola-de-grabacion-con-organeta.jpg&height=300&width=300",
+            "id": "PAQHER-B-RED-REC-REC-019-MAT543",
+            "listPrice": 63700.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg&height=475&width=475",
+            "salePrice": 8600.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg",
+                "/ccstore/v1/images/?source=/file/v1001259185288131391/products/id1700.pista-para-golfito.jpg"
+            ],
+            "displayName": "Golfito",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v1001259185288131391/products/id1700.pista-para-golfito.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Avenida 68": 49,
+                        "Cajicá": 47
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/golfito/HER-B-RED-REC-REC-015",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg&height=300&width=300",
+            "x_area": "Golf",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v1001259185288131391/products/id1700.pista-para-golfito.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v4561243789366165382/products/id1700.pista-de-golfito-compensar.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-015",
+            "listPrice": 8600.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg&height=475&width=475",
+            "salePrice": 3400.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg",
+                "/ccstore/v1/images/?source=/file/v9031345176533488867/products/nino-con-camiseta-amarilla-sale-de-tunel-infantil.jpg"
+            ],
+            "displayName": "Juegos infantiles",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v9031345176533488867/products/nino-con-camiseta-amarilla-sale-de-tunel-infantil.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "CBI - Centro Mayor": 77
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "15 Minutos": 22
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/juegos-infantiles/HER-B-RED-REC-REC-069",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v9031345176533488867/products/nino-con-camiseta-amarilla-sale-de-tunel-infantil.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v2112363156531609187/products/nino-y-nina-se-divierten-en-los-juegos-de-compensar.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-069",
+            "listPrice": 3400.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg&height=475&width=475",
+            "salePrice": 4400.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg",
+                "/ccstore/v1/images/?source=/file/v6744132750365419384/products/id1700.nina-con-camiseta-amarilla-pasa-un-puente-colgante.jpg"
+            ],
+            "displayName": "Laberinto interactivo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v6744132750365419384/products/id1700.nina-con-camiseta-amarilla-pasa-un-puente-colgante.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "CBI - Centro Mayor": 77
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "15 Minutos": 22
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/laberinto-interactivo/HER-B-RED-REC-REC-061",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v6744132750365419384/products/id1700.nina-con-camiseta-amarilla-pasa-un-puente-colgante.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v6118998791218477052/products/id1700.dos-ninos-sonrientes-se-abrazan-en-el-laberinto-interactivo.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-061",
+            "listPrice": 4400.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg&height=100&width=100",
+            "x_typePyS": "Material-artículo",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg&height=475&width=475",
+            "salePrice": 10700.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg",
+                "/ccstore/v1/images/?source=/file/v294561169625827872/products/id1700.nina-sentada-en-el-piso-con-body-negro-y-medias-blancas.jpg"
+            ],
+            "displayName": "Medias antideslizantes",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v294561169625827872/products/id1700.nina-sentada-en-el-piso-con-body-negro-y-medias-blancas.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySMaterial-Articulos_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "CBI - Centro Mayor": 25
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/medias-antideslizantes/HER-B-RED-REC-REC-068",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v294561169625827872/products/id1700.nina-sentada-en-el-piso-con-body-negro-y-medias-blancas.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v7931951877304598087/products/id1700.nina-con-las-manos-a-los-lados-hace-equilibrio.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-068",
+            "listPrice": 10700.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg&height=475&width=475",
+            "salePrice": 3100.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg",
+                "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg"
+            ],
+            "displayName": "Mini tejo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Calle 220": 45,
+                        "Cajicá": 47
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/mini-tejo/HER-B-RED-REC-REC-008",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg&height=300&width=300",
+            "x_area": "Mini Tejo",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v4398349149912363359/products/id1700.tres-canchas-de-tejo-en-cesped.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-008",
+            "listPrice": 3100.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg&height=475&width=475",
+            "salePrice": 6600.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg",
+                "/ccstore/v1/images/?source=/file/v7101087091013189966/products/id1700.nina-con-chaqueta-rosada-sube-muro-de-escalar.jpg"
+            ],
+            "displayName": "Muro de escalar",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v7101087091013189966/products/id1700.nina-con-chaqueta-rosada-sube-muro-de-escalar.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Suba Sede Integral": 72,
+                        "CBI - Centro Mayor": 77
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2,
+                        "Mayor 10 años": 13,
+                        "Menor 9 años": 16
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/muro-de-escalar/HER-B-RED-REC-REC-018",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg&height=300&width=300",
+            "x_area": "Muros de escalar",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v7101087091013189966/products/id1700.nina-con-chaqueta-rosada-sube-muro-de-escalar.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v7914700250227645464/products/id1700.nina-utiliza-muro-de-escalar.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-018",
+            "listPrice": 6600.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg&height=475&width=475",
+            "salePrice": 10100.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg",
+                "/ccstore/v1/images/?source=/file/v3781905072277523772/products/joven-con-camiseta-azul-pasando-por-obstaculos-en-el-aire.jpg"
+            ],
+            "displayName": "Parque de trampolines y obstáculos",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v3781905072277523772/products/joven-con-camiseta-azul-pasando-por-obstaculos-en-el-aire.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "CBI - Centro Mayor": 77
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "30 Minutos": 21
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/parque-de-trampolines-y-obstaculos/HER-B-RED-REC-REC-062",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v3781905072277523772/products/joven-con-camiseta-azul-pasando-por-obstaculos-en-el-aire.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v2541636265084912379/products/tres-adolecentes-en-el-parque-de-trampolines-y-obstaculos.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-062",
+            "listPrice": 10100.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=100&width=100",
+            "x_typePyS": "Plan Afiliación",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=475&width=475",
+            "salePrice": 14600.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg",
+                "/ccstore/v1/images/?source=/file/v2754877490288472450/products/id1700.parque-infantil-de-compensar-cajica.jpg"
+            ],
+            "displayName": "Pasadía recreativo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v2754877490288472450/products/id1700.parque-infantil-de-compensar-cajica.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Calle 220": 3,
+                        "CBI - Centro Mayor": 45,
+                        "Suba Sede Integral": 33,
+                        "Avenida 68": 18,
+                        "Cajicá": 17
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_validity",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_validity",
+                    "optionName": "Vigencia en días",
+                    "optionValueMap": {
+                        "1": 10
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/pasadia-recreativo/HER-B-RED-REC-REC-051",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v2754877490288472450/products/id1700.parque-infantil-de-compensar-cajica.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-051",
+            "listPrice": 34200.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=100&width=100",
+            "x_typePyS": "Plan Afiliación",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=475&width=475",
+            "salePrice": 20200.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg",
+                "/ccstore/v1/images/?source=/file/v3781905072277523772/products/joven-con-camiseta-azul-pasando-por-obstaculos-en-el-aire.jpg"
+            ],
+            "displayName": "Pasaporte recreativo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v3781905072277523772/products/joven-con-camiseta-azul-pasando-por-obstaculos-en-el-aire.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "CBI - Centro Mayor": 45
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_validity",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_validity",
+                    "optionName": "Vigencia en días",
+                    "optionValueMap": {
+                        "1": 10
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/pasaporte-recreativo/HER-B-RED-REC-REC-091",
+            "x_typePromotion": "Nuevo",
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v3781905072277523772/products/joven-con-camiseta-azul-pasando-por-obstaculos-en-el-aire.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-091",
+            "listPrice": 20200.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg&height=100&width=100",
+            "x_typePyS": "Material-artículo",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg&height=475&width=475",
+            "salePrice": 133500.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg",
+                "/ccstore/v1/images/?source=/file/v3712832804543195976/products/mujer-en-sala-de-ensayo-hablando.jpg"
+            ],
+            "displayName": "Práctica dirigida creación de pódcast",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v3712832804543195976/products/mujer-en-sala-de-ensayo-hablando.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySMaterial-Articulos_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Suba Sede Integral": 17
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/practica-dirigida-creacion-de-podcast/HER-B-RED-REC-REC-078",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg&height=300&width=300",
+            "x_area": "Sala de Ensayos",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v3712832804543195976/products/mujer-en-sala-de-ensayo-hablando.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v3432066989386327866/products/id1413.sala-de-grabacion-con-microfono.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-078",
+            "listPrice": 133500.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg&height=475&width=475",
+            "salePrice": 161800.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg",
+                "/ccstore/v1/images/?source=/file/v82070387774655296/products/tres-personas-con-chalecos-salvavidas-azules-hacen-rafting.jpg"
+            ],
+            "displayName": "Rafting en Nimaima",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v82070387774655296/products/tres-personas-con-chalecos-salvavidas-azules-hacen-rafting.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Avenida 68": 49
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg&height=940&width=940",
+            "x_discount": "15 de oct",
+            "route": "/actividades-recreativas/rafting-en-nimaima/HER-B-RED-REC-REC-082",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v82070387774655296/products/tres-personas-con-chalecos-salvavidas-azules-hacen-rafting.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v8867895582354390138/products/cinco-personas-sonrien-mientras-levantan-unos-remos.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-082",
+            "listPrice": 161800.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg&height=475&width=475",
+            "salePrice": 4000.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg",
+                "/ccstore/v1/images/?source=/file/v1967089616463185453/products/id1700.boca-de-rana-sobre-mesa-verde.jpg"
+            ],
+            "displayName": "Rana",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v1967089616463185453/products/id1700.boca-de-rana-sobre-mesa-verde.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Calle 220": 45,
+                        "Cajicá": 47
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/rana/HER-B-RED-REC-REC-010",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg&height=300&width=300",
+            "x_area": "Rana",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v1967089616463185453/products/id1700.boca-de-rana-sobre-mesa-verde.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v4990174597478724872/products/id1700.rana-en-acero-sobre-mesa-para-juego.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-010",
+            "listPrice": 4000.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg&height=475&width=475",
+            "salePrice": 30000.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg",
+                "/ccstore/v1/images/?source=/file/v4858624328433678287/products/id1413.piano-negro-en-sala-de-ensayos.jpg"
+            ],
+            "displayName": "Sala de ensayos",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v4858624328433678287/products/id1413.piano-negro-en-sala-de-ensayos.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Suba Sede Integral": 72
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/sala-de-ensayos/HER-B-RED-REC-REC-019",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg&height=300&width=300",
+            "x_area": "Sala de Ensayos",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v4858624328433678287/products/id1413.piano-negro-en-sala-de-ensayos.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v5264983548614726143/products/id1413.sala-de-ensayos-con-distintos-instrumentos-y-equipos.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-019",
+            "listPrice": 30000.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=100&width=100",
+            "x_typePyS": "Curso",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=475&width=475",
+            "salePrice": 37000.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg",
+                "/ccstore/v1/images/?source=/file/v8489197931755117722/products/id1700.nino-de-espaldas-sube-muro-de-escalar.jpg"
+            ],
+            "displayName": "Taller de escalada",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v8489197931755117722/products/id1700.nino-de-espaldas-sube-muro-de-escalar.jpg&height=100&width=100"
+            ],
+            "x_nivelPys": null,
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/taller-de-escalada/HER-B-RED-REC-REC-030",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v8489197931755117722/products/id1700.nino-de-espaldas-sube-muro-de-escalar.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v1455330861930990487/products/id1700.mujer-utiliza-muro-de-escalar.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-030",
+            "listPrice": 37000.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg&height=475&width=475",
+            "salePrice": 17100.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg",
+                "/ccstore/v1/images/?source=/file/v6642419891498001908/products/mujer-mayor-abrazando-un-perro.jpg"
+            ],
+            "displayName": "Taller para el cuidado de tu perro",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v6642419891498001908/products/mujer-mayor-abrazando-un-perro.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Calle 220": 45
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/taller-para-el-cuidado-de-tu-perro/HER-B-RED-REC-REC-089",
+            "x_typePromotion": "Nuevo",
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v6642419891498001908/products/mujer-mayor-abrazando-un-perro.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v509029430494100363/general/dia-recreativo-con-tu-perro.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-089",
+            "listPrice": 17100.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=475&width=475",
+            "salePrice": 3100.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg",
+                "/ccstore/v1/images/?source=/file/v2857162195364131237/products/id1700.cinco-canchas-de-mini-tejo-verdes.jpg"
+            ],
+            "displayName": "Tejo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v2857162195364131237/products/id1700.cinco-canchas-de-mini-tejo-verdes.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Calle 220": 45,
+                        "Cajicá": 47
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/tejo/HER-B-RED-REC-REC-011",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=300&width=300",
+            "x_area": "Tejo",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v2857162195364131237/products/id1700.cinco-canchas-de-mini-tejo-verdes.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v41970524395410751/products/id1700.cancha-de-mini-tejo.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-011",
+            "listPrice": 3100.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg&height=475&width=475",
+            "salePrice": 115200.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg",
+                "/ccstore/v1/images/?source=/file/v7351811205126721148/products/una-mujer-en-una-cascada.jpg"
+            ],
+            "displayName": "Travesía en Villeta",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v7351811205126721148/products/una-mujer-en-una-cascada.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Avenida 68": 49
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/travesia-en-villeta/HER-B-RED-REC-REC-084",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v7351811205126721148/products/una-mujer-en-una-cascada.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v6077656914103923592/products/una-pareja-de-excursion.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-084",
+            "listPrice": 115200.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg&height=475&width=475",
+            "salePrice": 4700.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg",
+                "/ccstore/v1/images/?source=/file/v8250503004488030721/products/id1700.nina-contenta-manejando-un-triciclo.jpg"
+            ],
+            "displayName": "Triciclo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v8250503004488030721/products/id1700.nina-contenta-manejando-un-triciclo.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Cajicá": 47
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/triciclo/HER-B-RED-REC-REC-017",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v8250503004488030721/products/id1700.nina-contenta-manejando-un-triciclo.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v6504771486956478141/products/id1700.nina-vestida-de-muchos-colores-montando-triciclo.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-017",
+            "listPrice": 4700.0
+        }
+    ]
+}

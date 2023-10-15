@@ -1,0 +1,392 @@
+{
+    "items": [
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg&height=475&width=475",
+            "salePrice": 23700.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg",
+                "/ccstore/v1/images/?source=/file/v1763408339471079511/products/dos-adolescentes-en-un-bote-en-lagosol.jpg"
+            ],
+            "displayName": "Entrada Parque Acuático Lagosol",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v1763408339471079511/products/dos-adolescentes-en-un-bote-en-lagosol.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Lagosol": 62
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Niño": 11,
+                        "Adulto": 12
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/lagosol/entrada-parque-acuatico-lagosol/HER-B-ALJ-PAS-ENT-001",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg&height=300&width=300",
+            "x_area": "Actividades Lagosol",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v1763408339471079511/products/dos-adolescentes-en-un-bote-en-lagosol.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v1014518866631359832/products/grupo-de-personas-en-lagosol.jpg&height=300&width=300",
+            "id": "HER-B-ALJ-PAS-ENT-001",
+            "listPrice": 25400.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg&height=100&width=100",
+            "x_typePyS": "Prácticas Libres",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg&height=475&width=475",
+            "salePrice": 82000.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg",
+                "/ccstore/v1/images/?source=/file/v5477954665537566348/products/pareja-de-adultos-sentados-al-lado-de-la-piscina.jpg"
+            ],
+            "displayName": "Pasadía Fusagasugá con transporte para adulto mayor",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v5477954665537566348/products/pareja-de-adultos-sentados-al-lado-de-la-piscina.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Fusagasugá": 75
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_gender",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_gender",
+                    "optionName": "Género",
+                    "optionValueMap": {
+                        "Mixto": 6
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_modality",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_modality",
+                    "optionName": "Modalidad",
+                    "optionValueMap": {
+                        "Otra": 2
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_demand",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_demand",
+                    "optionName": "Demanda",
+                    "optionValueMap": {
+                        "baja": 1,
+                        "alta": 0
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_day",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPracticaLibre_x_day",
+                    "optionName": "Dia",
+                    "optionValueMap": {
+                        "domingo": 6,
+                        "miercoles": 2,
+                        "martes": 1,
+                        "jueves": 3,
+                        "sabado": 5,
+                        "lunes": 0,
+                        "viernes": 4
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg&height=940&width=940",
+            "x_discount": "01 sept al 31 oct",
+            "route": "/activaci%C3%B3n-para-adulto-mayor/pasadia-fusagasuga-con-transporte-para-adulto-mayor/HER-B-ALJ-PAS-TRA-002",
+            "x_typePromotion": "Promoción",
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg&height=300&width=300",
+            "x_area": "Persona Mayor",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v5477954665537566348/products/pareja-de-adultos-sentados-al-lado-de-la-piscina.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v1967878459751651116/products/fachada-de-casa-blanca-fusagasuga.jpg&height=300&width=300",
+            "id": "HER-B-ALJ-PAS-TRA-002",
+            "listPrice": 82000.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg&height=100&width=100",
+            "x_typePyS": "Plan Afiliación",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg&height=475&width=475",
+            "salePrice": 61500.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg",
+                "/ccstore/v1/images/?source=/file/v2911347524817045615/products/mujer-mayor-saliendo-de-una-piscina.jpg"
+            ],
+            "displayName": "Pasadía Fusagasugá sin transporte para adulto mayor",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v2911347524817045615/products/mujer-mayor-saliendo-de-una-piscina.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Fusagasugá": 43
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_validity",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_validity",
+                    "optionName": "Vigencia en días",
+                    "optionValueMap": {
+                        "1": 10
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg&height=940&width=940",
+            "x_discount": "01 sept al 31 oct",
+            "route": "/activaci%C3%B3n-para-adulto-mayor/pasadia-fusagasuga-sin-transporte-para-adulto-mayor/HER-B-ALJ-PAS-TRA-003",
+            "x_typePromotion": "Promoción",
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg&height=300&width=300",
+            "x_area": "Persona Mayor",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v2911347524817045615/products/mujer-mayor-saliendo-de-una-piscina.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v1214654427021565726/products/fachada-de-una-casa-de-techo-rojo-en-fusagasuga.jpg&height=300&width=300",
+            "id": "HER-B-ALJ-PAS-TRA-003",
+            "listPrice": 61500.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg&height=100&width=100",
+            "x_typePyS": "Plan Afiliación",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg&height=475&width=475",
+            "salePrice": 62700.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg",
+                "/ccstore/v1/images/?source=/file/v4424740806688164769/products/tres-ninas-y-un-nino-en-los-toboganes-de-lagosol.jpg"
+            ],
+            "displayName": "Pasadía Parque Acuático Lagosol con transporte",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v4424740806688164769/products/tres-ninas-y-un-nino-en-los-toboganes-de-lagosol.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Lagosol desde Soacha": 39,
+                        "Lagosol desde Avenida 68": 41,
+                        "Lagosol desde Suba": 47,
+                        "Lagosol desde 1 de mayo": 42
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_validity",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_validity",
+                    "optionName": "Vigencia en días",
+                    "optionValueMap": {
+                        "1": 10
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/avenida-68/pasadia-parque-acuatico-lagosol-con-transporte/HER-B-ALJ-PAS-PLF-001",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg&height=300&width=300",
+            "x_area": "Actividades Lagosol",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v4424740806688164769/products/tres-ninas-y-un-nino-en-los-toboganes-de-lagosol.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v2945860961979799615/products/bus-de-compensar-en-lagosol.jpg&height=300&width=300",
+            "id": "HER-B-ALJ-PAS-PLF-001",
+            "listPrice": 66300.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg&height=100&width=100",
+            "x_typePyS": "Plan Afiliación",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg&height=475&width=475",
+            "salePrice": 29300.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg",
+                "/ccstore/v1/images/?source=/file/v8425392091176080428/products/un-hombre-una-mujer-y-dos-ninas-en-lagosol.jpg"
+            ],
+            "displayName": "Pasadía Parque Acuático Lagosol sin transporte",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v8425392091176080428/products/un-hombre-una-mujer-y-dos-ninas-en-lagosol.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Lagosol": 31
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_validity",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_validity",
+                    "optionName": "Vigencia en días",
+                    "optionValueMap": {
+                        "1": 10
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/lagosol/pasadia-parque-acuatico-lagosol-sin-transporte/HER-B-ALJ-PAS-PLF-002",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg&height=300&width=300",
+            "x_area": "Actividades Lagosol",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v8425392091176080428/products/un-hombre-una-mujer-y-dos-ninas-en-lagosol.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v5749505129326140159/products/dos-adolescentes-en-los-toboganes-de-lagosol.jpg&height=300&width=300",
+            "id": "HER-B-ALJ-PAS-PLF-002",
+            "listPrice": 32900.0
+        },
+        {
+            "primaryThumbImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=100&width=100",
+            "x_typePyS": "Plan Afiliación",
+            "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=475&width=475",
+            "salePrice": 14600.0,
+            "fullImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg",
+                "/ccstore/v1/images/?source=/file/v2754877490288472450/products/id1700.parque-infantil-de-compensar-cajica.jpg"
+            ],
+            "displayName": "Pasadía recreativo",
+            "primaryFullImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg",
+            "thumbImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=100&width=100",
+                "/ccstore/v1/images/?source=/file/v2754877490288472450/products/id1700.parque-infantil-de-compensar-cajica.jpg&height=100&width=100"
+            ],
+            "productVariantOptions": [
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_headquarter",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_headquarter",
+                    "optionName": "Sede",
+                    "optionValueMap": {
+                        "Calle 220": 3,
+                        "CBI - Centro Mayor": 45,
+                        "Suba Sede Integral": 33,
+                        "Avenida 68": 18,
+                        "Cajicá": 17
+                    }
+                },
+                {
+                    "variantBasedDisplay": false,
+                    "optionId": "x_validity",
+                    "listingVariant": false,
+                    "mapKeyPropertyAttribute": "sku-PySPlanAfiliacion_x_validity",
+                    "optionName": "Vigencia en días",
+                    "optionValueMap": {
+                        "1": 10
+                    }
+                }
+            ],
+            "primaryLargeImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=940&width=940",
+            "x_discount": null,
+            "route": "/actividades-recreativas/pasadia-recreativo/HER-B-RED-REC-REC-051",
+            "x_typePromotion": null,
+            "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=300&width=300",
+            "x_area": "Recreación",
+            "sourceImageURLs": [
+                "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=300&width=300",
+                "/ccstore/v1/images/?source=/file/v2754877490288472450/products/id1700.parque-infantil-de-compensar-cajica.jpg&height=300&width=300"
+            ],
+            "primarySmallImageURL": "/ccstore/v1/images/?source=/file/v4244768448237775654/products/id1700.familia-en-parque-de-diversiones.jpg&height=300&width=300",
+            "id": "HER-B-RED-REC-REC-051",
+            "listPrice": 34200.0
+        }
+    ]
+}
