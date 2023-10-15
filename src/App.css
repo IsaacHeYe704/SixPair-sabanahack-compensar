@@ -1,50 +1,43 @@
 .page{
-    min-height: 100vh;
+    min-height: 90vh;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding-bottom: 20px;
     justify-content: space-between;
-    background-color: #f9f9f9;
+    background-color: white;
 }
 .escuchando{
     color: var(--Dark-grey, #4D4D4D);
-font-family: Sarabun;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: 21px; /* 105% */
-letter-spacing: -0.7px;
-text-align: center;
+    font-family: Sarabun;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px; /* 105% */
+    letter-spacing: -0.7px;
+    text-align: center;
 }
-.vivianBlur{
-    width: 200px;
-    height: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 100%;
-}
-.vivianBorder{
-    width: 160px;
-    height: 160px;
-    fill: var(--white, #FFF);
-    stroke-width: 4px;
-    background-color: white;
-    border-radius: 100%;
-    background: linear-gradient(to right, red, purple);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.vivianContainer{
-    background-color: #FFF;
-    border-radius: 100%;
-    width: 150px;
-    height: 150px;
-    display: flex;
-    justify-content: flex-end;
-}
+
 .vivian{
-    width: 100%;
-    
-}
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}   
+.loader {
+    width: 48px;
+    height: 48px;
+    border: 5px solid #FFF;
+    border-bottom-color: #FF3D00;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+    }
+
+    @keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+    } 

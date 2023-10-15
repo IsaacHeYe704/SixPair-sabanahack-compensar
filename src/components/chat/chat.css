@@ -1,7 +1,10 @@
 .chat-container {
     max-width: 400px;
-    max-height: 150px;
+    max-height: 200px;
     overflow: scroll;
+    display: flex;
+    
+    flex-direction: column-reverse;
     margin-bottom: 100px;
     margin: 0 auto;
 }
@@ -16,7 +19,9 @@
     background-color: #e6e6e6;
     text-align: left;
     color: black;
+ 
 }
+
 
 .sent {
     background-color: #007bff;

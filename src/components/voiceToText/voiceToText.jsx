@@ -17,8 +17,7 @@ const VoiceToText = ({talktToVivi,setEscribiendo}) => {
     useEffect(() => {
         setEscribiendo(listening)
     }, [listening])
-    
-    
+
     const handleListing = () => {
       setIsListening(true);
       microphoneRef.current.classList.add("listening");
@@ -32,17 +31,19 @@ const VoiceToText = ({talktToVivi,setEscribiendo}) => {
       SpeechRecognition.stopListening();
     };
     const handleReset = () => {
+        setIsListening(false);
       stopHandle();
+      resetTranscript();
       resetTranscript();
     };
     const sendData = () => {
-        stopHandle();
-      resetTranscript();
+        handleReset()
+        resetTranscript();
         talktToVivi(transcript)
     }
   return (
     <div className="microphone-wrapper">
-        {transcript && isListening && (
+        {transcript  && (
         <div className="microphone-result-container">
           <div className="microphone-result-text">{transcript}</div>
         </div>
@@ -62,7 +63,10 @@ const VoiceToText = ({talktToVivi,setEscribiendo}) => {
         }
         {isListening && (
           <>
-          <button className="microphone-reset btn" onClick={handleReset}>
+          <button className="microphone-reset btn" onClick={()=>{
+            handleReset()
+            handleReset()
+          }}>
             Borrar
           </button>
           <button className="microphone-stop btn" onClick={sendData}>
